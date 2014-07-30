@@ -45,8 +45,7 @@ public class ReadingWritingFile {
             System.out.println(
                 "Error reading file '" 
                 + fileName + "'");					
-            // Or we could just do this: 
-            // ex.printStackTrace();
+            
         }
 		
 		//Writing the File:
